@@ -1,5 +1,4 @@
 import React from "react";
-import { text } from "stream/consumers";
 import style from "./Botao.module.scss";
 
 interface Props {
